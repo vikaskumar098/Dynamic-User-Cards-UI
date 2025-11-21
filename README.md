@@ -1,7 +1,6 @@
 
----
 
-# ✅ ** Dynamic-User-Cards-UI**
+# ✅ Dynamic-User-Cards-UI
 
 ```markdown
 # 🧑‍🤝‍🧑 Dynamic User Cards UI  
