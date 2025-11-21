@@ -34,7 +34,7 @@ Dynamic-User-Cards-UI/
 
 
 ---
-
+```
 ## 🖼️ UI Preview  
 
 
@@ -42,10 +42,6 @@ Dynamic-User-Cards-UI/
 
 
 ````
-
-If you want, I can make a **custom UI banner** for your README.
-
----
 
 ## 🧠 How It Works  
 
